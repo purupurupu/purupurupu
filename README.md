@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![purupurupu's GitHub toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=purupurupu&count_private=true&theme=onedark&layout=compact&langs_count=8)
+![purupurupu's GitHub toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=purupurupu&theme=onedark&layout=compact&langs_count=8)
 ![purupurupu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=purupurupu&count_private=true&theme=onedark)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/purupurupu?ext=heatmap)
