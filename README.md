@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![purupurupu's GitHub toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=purupurupu&theme=onedark&layout=compact&langs_count=8)
-![purupurupu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=purupurupu&theme=onedark&count_private=true)
+![purupurupu's GitHub toplangs](https://github-readme-stats-phi-lyart-48.vercel.app/api/top-langs/?username=purupurupu&theme=onedark&layout=compact&langs_count=8)
+![purupurupu's GitHub stats](https://github-readme-stats-phi-lyart-48.vercel.app/api/?username=purupurupu&theme=onedark&count_private=true)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/purupurupu?ext=heatmap)
 
