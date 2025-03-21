@@ -5,7 +5,7 @@
 ![purupurupu's GitHub toplangs](https://github-readme-stats-phi-lyart-48.vercel.app/api/top-langs/?username=purupurupu&theme=onedark&layout=compact&langs_count=8)
 ![purupurupu's GitHub stats](https://github-readme-stats-phi-lyart-48.vercel.app/api/?username=purupurupu&theme=onedark&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/purupurupu/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=purupurupu)](https://github.com/purupurupu/github-profile-trophy)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/purupurupu?ext=heatmap)
 
